@@ -21,7 +21,7 @@ const openai = new OpenAIApi(configuration)
 
 
 // listeninng
-app.listen("3080", ()=>console.log("listening on port 3080"))
+app.listen("https://server-shreyansh-ai-07.vercel.app/", ()=>console.log("listening on port shreyansh-ai-07"))
 
 
 // dummy route to test
